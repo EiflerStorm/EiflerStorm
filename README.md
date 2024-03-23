@@ -1,13 +1,13 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" align="center" height="340" width="440" srcset="https://solicitaalmoxarifado.ufcspa.edu.br/img/UFCSPA.png">
- <source media="(prefers-color-scheme: light)" align="center" height="340" width="440" srcset="https://assets.infra.grancursosonline.com.br/projeto/ufcspa-universidade-federal-de-ciencia-da-saude-de-porto-alegre.png">
- <img alt="Símbolo UFCSPA" align="center" height="340" width="440" src="https://assets.infra.grancursosonline.com.br/projeto/ufcspa-universidade-federal-de-ciencia-da-saude-de-porto-alegre.png">
+ <source media="(prefers-color-scheme: dark)" align="center" height="330" width="430" srcset="https://solicitaalmoxarifado.ufcspa.edu.br/img/UFCSPA.png">
+ <source media="(prefers-color-scheme: light)" align="center" height="330" width="430" srcset="https://assets.infra.grancursosonline.com.br/projeto/ufcspa-universidade-federal-de-ciencia-da-saude-de-porto-alegre.png">
+ <img alt="Símbolo UFCSPA" align="center" height="330" width="430" src="https://assets.infra.grancursosonline.com.br/projeto/ufcspa-universidade-federal-de-ciencia-da-saude-de-porto-alegre.png">
 </picture>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" align="center" height="190" width="410" srcset="https://github.com/EiflerStorm/EiflerStorm/assets/126223493/4d7bc0c0-d323-4ff0-b738-d081dd1c4cd0">
- <source media="(prefers-color-scheme: light)" align="center" height="190" width="410" srcset="https://github.com/EiflerStorm/EiflerStorm/assets/126223493/1ede3e0f-a714-4049-9c85-f0ab5bb900ab">
- <img alt="Símbolo Informática Biomédica" align="center" height="190" width="410" src="https://github.com/EiflerStorm/EiflerStorm/assets/126223493/3e84a6c6-c18e-4f10-9676-9db651aa360c">
+ <source media="(prefers-color-scheme: dark)" align="center" height="170" width="390" srcset="https://github.com/EiflerStorm/EiflerStorm/assets/126223493/4d7bc0c0-d323-4ff0-b738-d081dd1c4cd0">
+ <source media="(prefers-color-scheme: light)" align="center" height="170" width="390" srcset="https://github.com/EiflerStorm/EiflerStorm/assets/126223493/1ede3e0f-a714-4049-9c85-f0ab5bb900ab">
+ <img alt="Símbolo Informática Biomédica" align="center" height="170" width="390" src="https://github.com/EiflerStorm/EiflerStorm/assets/126223493/3e84a6c6-c18e-4f10-9676-9db651aa360c">
 </picture>
 
 
