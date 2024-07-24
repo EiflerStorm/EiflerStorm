@@ -13,7 +13,7 @@
 
 ##
 ### 👋 Oi, meu nome é Eduardo Eifler !
-- ✅ Sou de Porto Alegre e tenho 19 anos
+- ✅ Sou de Porto Alegre e tenho 20 anos
 - 🧬 Tenho interesse em **bioinformática**!
 - 🌱 Estou atualmente fazendo o curso de Informática Biomédica na **UFCSPA**
 - 📫 Acesse meu [Linkedin](linkedin.com/in/eduardo-pitombo-eifler-filho-532a24264)
